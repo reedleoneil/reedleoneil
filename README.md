@@ -28,6 +28,6 @@
 
 <div>
   <a href="https://github.com/reedleoneil/VendShit-1.0"><img title="VendShit-1.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=VendShit-1.0"></a>
-  <a href="https://github.com/reedleoneil/VendShit-1.2"><img title="VendShit-2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=VendShit-2.0"></a>
+  <a href="https://github.com/reedleoneil/VendShit-2.0"><img title="VendShit-2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=VendShit-2.0"></a>
 <div>
 
