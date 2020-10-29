@@ -32,7 +32,7 @@ I was into hacking and IoT last 2014 so I wanted to create my own Remote Adminis
 ### Vending Machine
 I was thinking for a project were I could apply most of the knowledge I learned in Computer Engineering at the university for my thesis. I decided to develop a Vending Machine where I could design the harware and develop a system for managing the vending machines. I would like it to consist of a software, hardware, and most aspects of information technology that is why I named it VendShit.
 
-Fun Fact: If you think VendShit as a bad word then you are not thinking outside of the box. It means vend + shit, and SHIT means Software, Harware, Information Technology.
+Fun Fact: If you think VendShit as a bad word then you are not thinking outside of the box. It means vend + shit, and SHIT means Software, Hardware, Information Technology.
 
 <div>
   <a href="https://github.com/reedleoneil/VendShit-1.0"><img title="VendShit-1.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=VendShit-1.0"></a>
