@@ -27,6 +27,7 @@ I was into hacking and IoT last 2014 so I wanted to create my own Remote Adminis
 <div>
   <a href="https://github.com/reedleoneil/buRAT-1.0"><img title="buRAT-1.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=buRAT-1.0"></a>
   <a href="https://github.com/reedleoneil/buRAT-2.0"><img title="buRAT-2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=buRAT-2.0"></a>
+  <a href="https://github.com/reedleoneil/re-buRAT"><img title="re-buRAT" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=re-buRAT"></a>
 </div>
 
 ### Vending Machine
