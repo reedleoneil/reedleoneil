@@ -79,3 +79,13 @@ $▒9g e@▒▒!4▒▒$-  #e                             ░
     <a href="https://github.com/reedleoneil/VendShit-2.0"><img title="VendShit-2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=VendShit-2.0"></a>
   <div>
 </details>
+           
+<details>
+  <summary>IoT</summary>
+         
+  <div>
+    <a href="https://github.com/reedleoneil/automatic-adventure"><img title="automatic-adventure" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=automatic-adventure"></a>
+    <a href="https://github.com/reedleoneil/effective-barnacle"><img title="effective-barnacle" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=effective-barnacle"></a>
+    <a href="https://github.com/reedleoneil/automatic-octo-meme"><img title="automatic-octo-meme" src="https://github-readme-stats.vercel.app/api/pin/?username=reedleoneil&repo=automatic-octo-meme"></a>
+  <div>
+</details>
