@@ -42,6 +42,7 @@ $▒9g e@▒▒!4▒▒$-  #e                             ░
 ![](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)
+![](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
             
 <details>
   <summary>Projects</summary>
